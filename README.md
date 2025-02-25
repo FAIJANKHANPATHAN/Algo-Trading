@@ -27,7 +27,7 @@ An advanced algorithmic trading bot developed using Python. This project leverag
    cd algorithmic-trading-bot
 
 ### Install the required Python libraries:
-   ```bash
+    ```bash
    pip install -r requirements.txt
 
 ### Set up your Telegram bot:
