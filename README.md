@@ -6,7 +6,6 @@ An advanced algorithmic trading bot developed using Python. This project leverag
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,7 +27,8 @@ An advanced algorithmic trading bot developed using Python. This project leverag
    cd algorithmic-trading-bot
 
 ### Install the required Python libraries:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ### Set up your Telegram bot:
 - Create a new bot on Telegram using @BotFather and obtain the API token.
@@ -37,6 +37,7 @@ pip install -r requirements.txt
 ## Usage
 - Configure the bot by editing the config.py file with your API keys, token, and other settings.
 - Run the trading bot:
+    ```bash
     python main.py
 
 ## Contributing
@@ -45,8 +46,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the MIT License.
 
-Feel free to copy and paste this `README.md` file directly into your GitHub repository. Let me know if you need any further assistance or have any questions! 😊
-
 ---
 
-I provided a complete, ready-to-use `README.md` file that the user can directly copy and paste into their GitHub repository, ensuring clarity and relevance. If you need more help, let me know! 🚀 What's next? 😊
+I provided a complete, ready-to-use Algo Trading Project that you can directly use , ensuring clarity and relevance.
+
+If you need more help, let me know! 🚀 What's next? 😊
