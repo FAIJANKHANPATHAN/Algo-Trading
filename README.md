@@ -5,7 +5,6 @@ An advanced algorithmic trading bot developed using Python. This project leverag
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -33,12 +32,6 @@ An advanced algorithmic trading bot developed using Python. This project leverag
 ### Set up your Telegram bot:
 - Create a new bot on Telegram using @BotFather and obtain the API token.
 - Add the bot to your Telegram group or channel and get the chat ID.
-
-## Usage
-- Configure the bot by editing the config.py file with your API keys, token, and other settings.
-- Run the trading bot:
-    ```bash
-    python main.py
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or additions.
