@@ -22,7 +22,7 @@ An advanced algorithmic trading bot developed using Python. This project leverag
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FAIJANKHANPATHAN/Algo-Trading.git
+   git clone https://github.com/faijan-pathan/Algo-Trading.git
    cd Algo-Trading
 
 ### Set up your Telegram bot:
