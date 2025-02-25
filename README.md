@@ -28,8 +28,7 @@ An advanced algorithmic trading bot developed using Python. This project leverag
 
 ### Install the required Python libraries:
     ```bash
-    pip install -r requirements.txt 
-    ```
+   pip install -r requirements.txt
 
 ### Set up your Telegram bot:
 - Create a new bot on Telegram using @BotFather and obtain the API token.
