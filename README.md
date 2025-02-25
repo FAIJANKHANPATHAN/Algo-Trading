@@ -24,11 +24,11 @@ An advanced algorithmic trading bot developed using Python. This project leverag
 1. Clone the repository:
    ```bash
    git clone https://github.com/FAIJANKHANPATHAN/Algo-Trading.git
-   cd algorithmic-trading-bot
+   cd Algo-Trading
 
 ### Install the required Python libraries:
     ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### Set up your Telegram bot:
 - Create a new bot on Telegram using @BotFather and obtain the API token.
